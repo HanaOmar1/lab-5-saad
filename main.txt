@@ -2,19 +2,19 @@
 using namespace std;
 
 // Function to sum two integers
-int sumdev(int a, int b) {
+int sumde(int a, int b) {
     return a + b;
 }
 
 // Function to sum three integers
-int sumdev(int a, int b, int c) {
+int sumde(int a, int b, int c) {
     return a + b + c;
 }
 
 int main() {
     // Example usage
-    int result1 = sumdev(2, 3); // Calls the sum function with 2 arguments
-    int result2 = sumdev(1, 4, 5); // Calls the sum function with 3 arguments
+    int result1 = sumde(2, 3); // Calls the sum function with 2 arguments
+    int result2 = sumde(1, 4, 5); // Calls the sum function with 3 arguments
 
     cout << "Sum of 2 and 3: " << result1 << endl;
     cout << "Sum of 1, 4, and 5: " << result2 << endl;
