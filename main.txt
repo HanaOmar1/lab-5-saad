@@ -2,7 +2,7 @@
 using namespace std;
 
 // Function to sum two integers
-int sum(int a, int b) {
+int sumscrum(int a, int b) {
     return a + b;
 }
 
